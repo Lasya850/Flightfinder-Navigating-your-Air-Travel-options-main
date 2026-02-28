@@ -52,7 +52,7 @@ FlightFinder/
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/challayasaswi/Flightfinder-Navigating-your-Air-Travel-options.git
+git clone https://github.com/Lasya850/Flightfinder-Navigating-your-Air-Travel-options-main
 
 2️⃣ Navigate to Project Folder
 cd Flightfinder-Navigating-your-Air-Travel-options
